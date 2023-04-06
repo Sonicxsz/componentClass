@@ -1,0 +1,17 @@
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: rgb(226, 203, 203);
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(112, 87, 87);
+}
+
+.green {
+    background-color: rgb(106, 209, 32);
+}
